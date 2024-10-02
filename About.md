@@ -10,7 +10,7 @@
 
 * To upload files you need to ask EekusGD in discord to upload a file. You can say something like:
 
-** HEY YOU LAZY A$$ UPLOAD THIS F#CKING FILE! **
+**HEY YOU LAZY A$$ UPLOAD THIS F#CKING FILE!**
 
 # Small resources
 
